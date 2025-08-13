@@ -3,6 +3,7 @@ import Landing from "./components/Landing";
 import PoemSection from "./components/PoemSection";
 import AboutHer from "./components/AboutHer";
 import FinalMessage from "./components/FinalMessage";
+import LovePoemSection from "./components/LovePoemSection";
 import Footer from './components/Footer';
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
       <PoemSection />
       <AboutHer />
       <FinalMessage />
+      <LovePoemSection />
       <Footer />
     </div>
   );
