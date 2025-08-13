@@ -13,12 +13,12 @@ const LovePoemSection = () => {
       {/* Contenido */}
       <div className="relative max-w-2xl text-center text-white" style={{ fontFamily: "'Great Vibes', cursive" }}>
         <p className="text-4xl leading-relaxed drop-shadow-lg">
-          Sos la mujer mas hermosa de todo el universo. <br />
-          Desde el instante que te vi despues de 5 años, algo despertó en mí. <br /> 
-          No puedo detener las emociones y sentimientos que me invaden. <br />
-          Y mi mente no para de pensarte. <br />
-          Tu gracia me enamora, tu amor de mamá me enamora, <br /> 
-          y tu belleza, agrada mi alma por medio de mis ojos. <br />
+           Sos la mujer más hermosa de todo el universo. <br />
+            Desde el instante en que te vi después de 5 años, algo despertó en mí. <br /> 
+            No puedo detener las emociones y sentimientos que me invaden. <br />
+            Y mi mente no para de pensarte. <br />
+            Tu gracia me enamora, tu amor de mamá me enamora, <br /> 
+            y tu belleza agrada mi alma a través de mis ojos. <br />
         </p>
       </div>
     </section>
